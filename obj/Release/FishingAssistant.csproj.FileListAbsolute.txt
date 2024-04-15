@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\FishingAssistant\bin\Release\FishingAssistant.exe.config
+C:\Users\Administrator\Desktop\FishingAssistant\bin\Release\FishingAssistant.exe
+C:\Users\Administrator\Desktop\FishingAssistant\bin\Release\FishingAssistant.pdb
+C:\Users\Administrator\Desktop\FishingAssistant\bin\Release\CSCore.dll
+C:\Users\Administrator\Desktop\FishingAssistant\bin\Release\CSCore.xml
+C:\Users\Administrator\Desktop\FishingAssistant\obj\Release\FishingAssistant.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FishingAssistant\obj\Release\FishingAssistant.FishingAssistant.resources
+C:\Users\Administrator\Desktop\FishingAssistant\obj\Release\FishingAssistant.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FishingAssistant\obj\Release\FishingAssistant.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\FishingAssistant\obj\Release\FishingAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FishingAssistant\obj\Release\FishingAssistant.csproj.CopyComplete
+C:\Users\Administrator\Desktop\FishingAssistant\obj\Release\FishingAssistant.exe
+C:\Users\Administrator\Desktop\FishingAssistant\obj\Release\FishingAssistant.pdb

@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\FishingAssistant\bin\Debug\FishingAssistant.exe.config
+C:\Users\Administrator\Desktop\FishingAssistant\bin\Debug\FishingAssistant.exe
+C:\Users\Administrator\Desktop\FishingAssistant\bin\Debug\FishingAssistant.pdb
+C:\Users\Administrator\Desktop\FishingAssistant\obj\Debug\FishingAssistant.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FishingAssistant\obj\Debug\FishingAssistant.Properties.Resources.resources
+C:\Users\Administrator\Desktop\FishingAssistant\obj\Debug\FishingAssistant.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\FishingAssistant\obj\Debug\FishingAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FishingAssistant\obj\Debug\FishingAssistant.exe
+C:\Users\Administrator\Desktop\FishingAssistant\obj\Debug\FishingAssistant.pdb
+C:\Users\Administrator\Desktop\FishingAssistant\bin\Debug\CSCore.dll
+C:\Users\Administrator\Desktop\FishingAssistant\bin\Debug\CSCore.xml
+C:\Users\Administrator\Desktop\FishingAssistant\obj\Debug\FishingAssistant.FishingAssistant.resources
+C:\Users\Administrator\Desktop\FishingAssistant\obj\Debug\FishingAssistant.csproj.CopyComplete
